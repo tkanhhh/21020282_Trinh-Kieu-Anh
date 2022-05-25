@@ -23,5 +23,9 @@
 ### - Kỹ thuật đã sử dụng: cấu trúc, định nghĩa, mảng, đồ hoạ,...
 
 # 5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình
-## - Kết luận: Lập trình trò chơi đã giúp em tăng khả năng hiểu biết và sử dụng ngôn ngữ C++; nâng cao năng lực xử lý nhiều file, nhiều chương trình con
-## - Hướng phát triển: Tăng độ khó cho trò chơi bằng các khối gỗ ẩn, bổ sung phần preview khối gỗ trên màn hình.
+## - Kết luận: 
+  + Tăng khả năng hiểu biết và sử dụng ngôn ngữ C++ 
+  + Nâng cao năng lực xử lý nhiều file, nhiều chương trình con
+## - Hướng phát triển: 
+  + Tăng độ khó cho trò chơi bằng các khối gỗ ẩn
+  + Bổ sung phần preview khối gỗ trên màn hình.
