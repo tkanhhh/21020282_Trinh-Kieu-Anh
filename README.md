@@ -8,7 +8,7 @@
   + Sau đó, tải bài repository về máy-> giải nén -> vào thư mục Release -> chạy Project.exe hoặc WizardAdventure.exe để chạy game
 
 ## 2. Mô tả chung về trò chơi, các ý tưởng chính
-### - Trò chơi di chuyển các khối gạch đang rơi tự do từ trên xuống bên trong khung hình chứ nhật cho trước. 
+### - Trò chơi di chuyển các khối gạch đang rơi tự do từ trên xuống bên trong khung hình chữ nhật cho trước. 
 ### - Chỗ nào có gạch rồi thì không di chuyển được tới vị trí đó. 
 ### - Người chơi xếp những khối hình sao cho khối hình lấp đầy 1 hàng ngang để ghi điểm và hàng ngang ấy sẽ biến mất. #
 
