@@ -4,7 +4,7 @@
   + Cài đặt SDL2 (phiên bản phù hợp với máy và phần mềm code đang sử dụng)
 
 - Cách lấy chương trình:
-  + Truy cập link github: 
+  + Truy cập link github: https://github.com/tkanhhh/21020282_Trinh-Kieu-Anh
   + Sau đó, tải bài repository về máy-> giải nén -> vào thư mục Release -> chạy Project.exe hoặc WizardAdventure.exe để chạy game
 
 2. Mô tả chung về trò chơi, các ý tưởng chính
@@ -19,7 +19,7 @@
 - Cách tính điểm, tăng level:
   + Tăng level: tăng level theo cấp số cộng 10 dòng được xoá. (lv0: 0-9 dòng; lv1: 10-19 dòng;...)
   + Tính điểm: Tính điểm theo level và theo số dòng được xoá cùng lúc. (Tối đa 4 dòng xoá được cùng lúc)
-- Link youtube: <<chưa coá>>
+- Link youtube: https://youtu.be/--HCmig-PxY
 - Kỹ thuật đã sử dụng: cấu trúc, định nghĩa, mảng, đồ hoạ,...
 
 5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình
